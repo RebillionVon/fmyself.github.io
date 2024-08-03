@@ -5,6 +5,7 @@
     "GMEEK_VERSION":"last",
     "startSite":"08/04/2024",
     "onePageListNum":15,
+    "singlePage":["https://weibo.com/u/1918870617"],
     "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
     "exlink":{"music":"https://music.163.com/#/playlist?id=529471948"}
 }
